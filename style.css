@@ -1,0 +1,49 @@
+a{
+    color: #fff;
+}
+
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.btn-green{
+    background-color: #1D6C9E;
+}
+  
+  .btn-green:hover{
+    background-color: rgb(24, 89, 129);
+  }
+  
+  a.btn-green{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  
+  a.btn-green:hover{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-radius: 6%;
+  }
+
+.widht{
+    width: 100%;
+}
+
+.bmw-color{
+    color: #2786be;
+}
+  
+.icon.fa {
+    background-color: #2791d6;
+    border-radius: 50%;
+}
+.widht{
+    width: 100%;
+}
+  
+.container {
+    padding: 0;
+     }
